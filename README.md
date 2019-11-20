@@ -1,4 +1,4 @@
-# RSSReaderBot
+# RSSReader Bot Builder v4
 Include the fixed (20 November 2019)
 - LUIS due to Microsoft Sample Error (fixed)
 - QnAMaker due to Microsoft Sample Error (fixed)
